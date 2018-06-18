@@ -1,3 +1,5 @@
+这个readme不是说明,是计划.
+
 > 创建备份表
 
 create table xxx as select * from .....
